@@ -1,0 +1,715 @@
+,state,abbreviation,month,as_of_date,pop
+0,alabama,AL,march,03/31/2020,21114
+1,alabama,AL,april,04/30/2020,20655
+2,alabama,AL,june,06/30/2020,19752
+3,alabama,AL,july,07/31/2020,19342
+4,alabama,AL,aug,08/31/2020,18901
+5,alabama,AL,sept,09/30/2020,18693
+6,alabama,AL,oct,10/31/2020,18262
+7,alabama,AL,nov,11/30/2020,17914
+8,alabama,AL,dec,12/31/2020,17725
+9,alabama,AL,jan_2021,01/31/2021,17454
+10,alabama,AL,feb_2021,02/28/2021,17308
+11,alabama,AL,march_2021,03/31/2021,17134
+12,alabama,AL,may_2021,04/30/2021,17051
+13,alabama,AL,april_2021,04/30/2021,17051
+14,alaska,AK,march,03/15/2020,4776
+15,alaska,AK,april,04/15/2020,4277
+16,alaska,AK,june,06/16/2020,4216
+17,alaska,AK,july,07/31/2020,4334
+18,alaska,AK,aug,08/31/2020,4414
+19,alaska,AK,sept,09/30/2020,4511
+20,alaska,AK,oct,10/31/2020,4586
+21,alaska,AK,nov,11/30/2020,4581
+22,alaska,AK,dec,12/31/2020,4559
+23,alaska,AK,jan_2021,01/31/2021,4523
+24,alaska,AK,feb_2021,02/28/2021,4505
+25,alaska,AK,march_2021,03/31/2021,4493
+26,alaska,AK,april_2021,04/30/2021,4478
+27,alaska,AK,may_2021,05/31/2021,4487
+28,arizona,AZ,march,03/31/2020,42360
+29,arizona,AZ,april,04/30/2020,41777
+30,arizona,AZ,june,06/30/2020,40529
+31,arizona,AZ,july,07/31/2020,39339
+32,arizona,AZ,aug,08/31/2020,39153
+33,arizona,AZ,sept,09/30/2020,38894
+34,arizona,AZ,oct,10/31/2020,38495
+35,arizona,AZ,nov,11/30/2020,38141
+36,arizona,AZ,dec,12/31/2020,37731
+37,arizona,AZ,jan_2021,01/31/2021,37396
+38,arizona,AZ,feb_2021,02/28/2021,36975
+39,arizona,AZ,march_2021,03/31/2021,36704
+40,arizona,AZ,april_2021,04/30/2021,36569
+41,arizona,AZ,may_2021,05/31/2021,36266
+42,arkansas,AR,march,03/15/2020,17501
+43,arkansas,AR,april,04/15/2020,17502
+44,arkansas,AR,june,06/16/2020,16473
+45,arkansas,AR,july,07/31/2020,15736
+46,arkansas,AR,aug,08/31/2020,15521
+47,arkansas,AR,sept,09/30/2020,15127
+48,arkansas,AR,oct,10/30/2020,14883
+49,arkansas,AR,nov,11/30/2020,14899
+50,arkansas,AR,dec,12/31/2020,14812
+51,arkansas,AR,jan_2021,02/01/2021,14462
+52,arkansas,AR,feb_2021,02/26/2021,14630
+53,arkansas,AR,march_2021,03/31/2021,15020
+54,arkansas,AR,april_2021,04/30/2021,15530
+55,arkansas,AR,may_2021,05/31/2021,15898
+56,california,CA,march,03/11/2020,117639
+57,california,CA,april,04/15/2020,113632
+58,california,CA,june,06/17/2020,109800
+59,california,CA,july,07/29/2020,102715
+60,california,CA,aug,09/02/2020,97342
+61,california,CA,sept,09/30/2020,94852
+62,california,CA,oct,11/04/2020,94433
+63,california,CA,nov,12/02/2020,94179
+64,california,CA,dec,12/30/2020,92350
+65,california,CA,jan_2021,01/27/2021,91341
+66,california,CA,feb_2021,02/24/2021,91516
+67,california,CA,march_2021,03/31/2021,92079
+68,california,CA,april_2021,04/28/2021,92836
+69,california,CA,may_2021,06/02/2021,95107
+70,colorado,CO,march,03/31/2020,17585
+71,colorado,CO,april,04/30/2020,16382
+72,colorado,CO,june,06/30/2020,15807
+73,colorado,CO,july,07/31/2020,15531
+74,colorado,CO,aug,08/31/2020,15022
+75,colorado,CO,sept,09/30/2020,14935
+76,colorado,CO,oct,10/31/2020,14673
+77,colorado,CO,nov,11/30/2020,14257
+78,colorado,CO,dec,12/31/2020,13687
+79,colorado,CO,jan_2021,01/31/2021,13558
+80,colorado,CO,feb_2021,02/28/2021,13556
+81,colorado,CO,march_2021,03/31/2021,13553
+82,colorado,CO,april_2021,04/30/2021,13537
+83,colorado,CO,may_2021,05/31/2021,13650
+84,connecticut,CT,march,03/15/2020,12290
+85,connecticut,CT,april,04/15/2020,11454
+86,connecticut,CT,june,06/16/2020,10206
+87,connecticut,CT,july,08/01/2020,9645
+88,connecticut,CT,aug,09/01/2020,9545
+89,connecticut,CT,sept,09/30/2020,9391
+90,connecticut,CT,oct,10/31/2020,9348
+91,connecticut,CT,nov,11/30/2020,9233
+92,connecticut,CT,dec,12/31/2020,9111
+93,connecticut,CT,jan_2021,01/31/2021,9053
+94,connecticut,CT,feb_2021,02/28/2021,9043
+95,connecticut,CT,march_2021,03/31/2021,8961
+96,connecticut,CT,april_2021,04/30/2021,8957
+97,connecticut,CT,may_2021,05/31/2021,8957
+98,delaware,DE,march,03/15/2020,5042
+99,delaware,DE,april,04/15/2020,4624
+100,delaware,DE,june,06/25/2020,4233
+101,delaware,DE,july,07/31/2020,4195
+102,delaware,DE,aug,08/31/2020,4216
+103,delaware,DE,sept,09/30/2020,4322
+104,delaware,DE,oct,10/31/2020,4457
+105,delaware,DE,nov,11/20/2020,4168
+106,delaware,DE,dec,12/31/2020,4358
+107,delaware,DE,jan_2021,01/31/2021,4677
+108,delaware,DE,feb_2021,02/28/2021,4360
+109,delaware,DE,march_2021,03/31/2021,4326
+110,delaware,DE,april_2021,04/30/2021,4269
+111,delaware,DE,may_2021,05/31/2021,4267
+112,federal,US,march,03/12/2020,172088
+113,federal,US,april,04/16/2020,167720
+114,federal,US,june,06/18/2020,154707
+115,federal,US,july,07/31/2020,150025
+116,federal,US,aug,08/27/2020,147457
+117,federal,US,sept,10/01/2020,146802
+118,federal,US,oct,11/05/2020,145718
+119,federal,US,nov,12/03/2020,144751
+120,federal,US,dec,12/31/2020,143350
+121,federal,US,jan_2021,01/28/2021,143416
+122,federal,US,feb_2021,03/04/2021,143443
+123,federal,US,march_2021,04/01/2021,143987
+124,federal,US,april_2021,04/22/2021,144016
+125,federal,US,may_2021,06/03/2021,144976
+126,florida,FL,march,03/15/2020,93764
+127,florida,FL,april,04/15/2020,91828
+128,florida,FL,june,06/16/2020,88305
+129,florida,FL,july,07/31/2020,85839
+130,florida,FL,aug,09/01/2020,84601
+131,florida,FL,sept,09/30/2020,82997
+132,florida,FL,oct,10/31/2020,82027
+133,florida,FL,nov,12/01/2020,81795
+134,florida,FL,dec,12/31/2020,79523
+135,florida,FL,jan_2021,02/01/2021,79322
+136,florida,FL,feb_2021,02/28/2021,79476
+137,florida,FL,march_2021,03/31/2021,79660
+138,florida,FL,april_2021,04/30/2021,80298
+139,florida,FL,may_2021,05/31/2021,80271
+140,georgia,GA,march,04/01/2020,55019
+141,georgia,GA,april,05/01/2020,53642
+142,georgia,GA,june,07/01/2020,51213
+143,georgia,GA,july,08/01/2020,50446
+144,georgia,GA,aug,09/01/2020,49848
+145,georgia,GA,sept,10/01/2020,49365
+146,georgia,GA,oct,11/05/2020,48433
+147,georgia,GA,nov,11/30/2020,48132
+148,georgia,GA,dec,01/01/2021,47703
+149,georgia,GA,jan_2021,02/01/2021,47027
+150,georgia,GA,feb_2021,03/01/2021,46530
+151,georgia,GA,march_2021,04/01/2021,46309
+152,georgia,GA,april_2021,05/03/2021,46195
+153,georgia,GA,may_2021,06/01/2021,46296
+154,hawaii,HI,march,03/31/2020,4836
+155,hawaii,HI,april,04/30/2020,4260
+156,hawaii,HI,june,06/15/2020,4404
+157,hawaii,HI,july,07/31/2020,4508
+158,hawaii,HI,aug,08/31/2020,4162
+159,hawaii,HI,sept,09/30/2020,4140
+160,hawaii,HI,oct,11/02/2020,4184
+161,hawaii,HI,nov,11/30/2020,4183
+162,hawaii,HI,dec,12/31/2020,4171
+163,hawaii,HI,jan_2021,01/31/2021,4200
+164,hawaii,HI,feb_2021,03/01/2021,4153
+165,hawaii,HI,march_2021,03/31/2021,4117
+166,hawaii,HI,april_2021,04/30/2021,4084
+167,hawaii,HI,may_2021,05/31/2021,4134
+168,idaho,ID,march,03/16/2020,7816
+169,idaho,ID,april,04/15/2020,7641
+170,idaho,ID,june,06/16/2020,7798
+171,idaho,ID,july,07/31/2020,7626
+172,idaho,ID,aug,08/31/2020,7426
+173,idaho,ID,sept,09/30/2020,7155
+174,idaho,ID,oct,10/30/2020,7496
+175,idaho,ID,nov,11/30/2020,7407
+176,idaho,ID,dec,12/31/2020,7343
+177,idaho,ID,jan_2021,02/01/2021,7461
+178,idaho,ID,feb_2021,03/01/2021,7827
+179,idaho,ID,march_2021,03/31/2021,7867
+180,idaho,ID,april_2021,04/30/2021,7921
+181,idaho,ID,may_2021,06/01/2021,7878
+182,illinois,IL,march,03/31/2020,36931
+183,illinois,IL,april,04/30/2020,34668
+184,illinois,IL,june,06/30/2020,31945
+185,illinois,IL,july,07/31/2020,31195
+186,illinois,IL,aug,09/01/2020,31236
+187,illinois,IL,sept,09/30/2020,31002
+188,illinois,IL,oct,10/31/2020,30651
+189,illinois,IL,nov,11/30/2020,30001
+190,illinois,IL,dec,12/31/2020,29225
+191,illinois,IL,jan_2021,01/22/2021,29151
+192,illinois,IL,feb_2021,02/28/2021,28160
+193,illinois,IL,march_2021,03/31/2021,27503
+194,illinois,IL,april_2021,04/30/2021,27313
+195,illinois,IL,may_2021,05/31/2021,27313
+196,indiana,IN,march,04/01/2020,26936
+197,indiana,IN,april,05/01/2020,26418
+198,indiana,IN,june,07/01/2020,25385
+199,indiana,IN,july,07/01/2020,25385
+200,indiana,IN,aug,09/01/2020,24513
+201,indiana,IN,sept,10/01/2020,24350
+202,indiana,IN,oct,11/01/2020,24203
+203,indiana,IN,nov,12/01/2020,23978
+204,indiana,IN,dec,01/01/2021,23726
+205,indiana,IN,jan_2021,02/01/2021,23745
+206,indiana,IN,feb_2021,03/01/2021,23745
+207,indiana,IN,march_2021,04/01/2021,23769
+208,indiana,IN,april_2021,05/01/2021,23554
+209,indiana,IN,may_2021,06/01/2021,23510
+210,iowa,IA,march,03/15/2020,8533
+211,iowa,IA,april,04/15/2020,8401
+212,iowa,IA,june,06/18/2020,7600
+213,iowa,IA,july,07/31/2020,7493
+214,iowa,IA,aug,08/31/2020,7362
+215,iowa,IA,sept,09/30/2020,7395
+216,iowa,IA,oct,10/31/2020,7415
+217,iowa,IA,nov,11/30/2020,7441
+218,iowa,IA,dec,12/31/2020,7542
+219,iowa,IA,jan_2021,01/31/2021,7489
+220,iowa,IA,feb_2021,02/28/2021,7554
+221,iowa,IA,march_2021,04/05/2021,7627
+222,iowa,IA,april_2021,04/30/2021,7673
+223,iowa,IA,may_2021,05/31/2021,7680
+224,kansas,KS,march,03/16/2020,9804
+225,kansas,KS,april,04/15/2020,9673
+226,kansas,KS,june,06/16/2020,9091
+227,kansas,KS,july,07/31/2020,8735
+228,kansas,KS,aug,08/31/2020,8580
+229,kansas,KS,sept,09/30/2020,8486
+230,kansas,KS,oct,10/30/2020,8414
+231,kansas,KS,nov,11/30/2020,8408
+232,kansas,KS,dec,12/31/2020,8574
+233,kansas,KS,jan_2021,01/29/2021,8665
+234,kansas,KS,feb_2021,03/01/2021,8719
+235,kansas,KS,march_2021,03/31/2021,8745
+236,kansas,KS,april_2021,04/30/2021,8682
+237,kansas,KS,may_2021,06/01/2021,8650
+238,kentucky,KY,march,03/16/2020,12162
+239,kentucky,KY,april,04/15/2020,11782
+240,kentucky,KY,june,06/15/2020,11272
+241,kentucky,KY,july,07/31/2020,11002
+242,kentucky,KY,aug,08/31/2020,10589
+243,kentucky,KY,sept,09/30/2020,10391
+244,kentucky,KY,oct,10/30/2020,10242
+245,kentucky,KY,nov,11/30/2020,10151
+246,kentucky,KY,dec,12/30/2020,9854
+247,kentucky,KY,jan_2021,01/29/2021,9706
+248,kentucky,KY,feb_2021,03/01/2021,9655
+249,kentucky,KY,march_2021,03/31/2021,9625
+250,kentucky,KY,april_2021,04/30/2021,9708
+251,kentucky,KY,may_2021,06/01/2021,9899
+252,louisiana,LA,march,03/18/2020,15066
+253,louisiana,LA,april,04/15/2020,14967
+254,louisiana,LA,june,06/17/2020,14623
+255,louisiana,LA,july,07/31/2020,14443
+256,louisiana,LA,aug,08/31/2020,14313
+257,louisiana,LA,sept,09/30/2020,14241
+258,louisiana,LA,oct,10/31/2020,14134
+259,louisiana,LA,nov,11/30/2020,14052
+260,louisiana,LA,dec,12/31/2020,13903
+261,louisiana,LA,jan_2021,01/31/2021,13822
+262,louisiana,LA,feb_2021,02/28/2021,13722
+263,louisiana,LA,march_2021,03/31/2021,13724
+264,louisiana,LA,april_2021,04/30/2021,13546
+265,louisiana,LA,may_2021,05/31/2021,13522
+266,maine,ME,march,03/15/2020,2138
+267,maine,ME,april,04/15/2020,2019
+268,maine,ME,june,06/16/2020,1828
+269,maine,ME,july,07/25/2020,1788
+270,maine,ME,aug,08/31/2020,1783
+271,maine,ME,sept,09/29/2020,1779
+272,maine,ME,oct,10/31/2020,1766
+273,maine,ME,nov,12/01/2020,1718
+274,maine,ME,dec,12/31/2020,1712
+275,maine,ME,jan_2021,02/03/2021,1679
+276,maine,ME,feb_2021,03/02/2021,1672
+277,maine,ME,march_2021,04/02/2021,1661
+278,maine,ME,april_2021,04/30/2021,1616
+279,maine,ME,may_2021,05/28/2021,1603
+280,maryland,MD,march,04/01/2020,20314
+281,maryland,MD,april,05/01/2020,19731
+282,maryland,MD,june,07/01/2020,19109
+283,maryland,MD,july,08/01/2020,17635
+284,maryland,MD,aug,08/31/2020,17455
+285,maryland,MD,sept,09/30/2020,18003
+286,maryland,MD,oct,10/31/2020,18280
+287,maryland,MD,feb_2021,11/30/2020,18426
+288,maryland,MD,april_2021,11/30/2020,18426
+289,maryland,MD,may_2021,11/30/2020,18426
+290,maryland,MD,nov,11/30/2020,18426
+291,maryland,MD,jan_2021,11/30/2020,18426
+292,maryland,MD,march_2021,11/30/2020,18426
+293,maryland,MD,dec,11/30/2020,18426
+294,massachusetts,MA,march,03/16/2020,7969
+295,massachusetts,MA,april,04/13/2020,7626
+296,massachusetts,MA,june,06/15/2020,7125
+297,massachusetts,MA,july,07/31/2020,7033
+298,massachusetts,MA,aug,08/31/2020,6973
+299,massachusetts,MA,sept,09/28/2020,6891
+300,massachusetts,MA,oct,11/02/2020,6729
+301,massachusetts,MA,nov,11/30/2020,6690
+302,massachusetts,MA,dec,01/04/2021,6570
+303,massachusetts,MA,jan_2021,02/01/2021,6524
+304,massachusetts,MA,feb_2021,03/08/2021,6374
+305,massachusetts,MA,march_2021,03/29/2021,6362
+306,massachusetts,MA,april_2021,05/03/2021,6318
+307,massachusetts,MA,may_2021,05/31/2021,6345
+308,michigan,MI,march,03/22/2020,38176
+309,michigan,MI,april,04/11/2020,37687
+310,michigan,MI,june,06/16/2020,35798
+311,michigan,MI,july,07/31/2020,34973
+312,michigan,MI,aug,08/31/2020,34561
+313,michigan,MI,sept,09/30/2020,34330
+314,michigan,MI,oct,10/31/2020,34134
+315,michigan,MI,nov,11/30/2020,33917
+316,michigan,MI,dec,12/31/2020,33617
+317,michigan,MI,jan_2021,01/31/2021,33370
+318,michigan,MI,feb_2021,02/28/2021,33185
+319,michigan,MI,march_2021,03/31/2021,32962
+320,michigan,MI,april_2021,04/30/2021,32822
+321,michigan,MI,may_2021,05/31/2021,32698
+322,minnesota,MN,march,03/24/2020,8904
+323,minnesota,MN,april,04/20/2020,8718
+324,minnesota,MN,june,06/29/2020,8402
+325,minnesota,MN,july,08/03/2020,7736
+326,minnesota,MN,aug,08/31/2020,7576
+327,minnesota,MN,sept,10/05/2020,7674
+328,minnesota,MN,oct,10/31/2020,7575
+329,minnesota,MN,nov,12/01/2020,7549
+330,minnesota,MN,dec,01/05/2021,7427
+331,minnesota,MN,jan_2021,02/03/2021,7315
+332,minnesota,MN,feb_2021,03/02/2021,7327
+333,minnesota,MN,march_2021,03/30/2021,7342
+334,minnesota,MN,april_2021,04/27/2021,7228
+335,minnesota,MN,may_2021,05/25/2021,7251
+336,mississippi,MS,march,03/15/2020,17667
+337,mississippi,MS,april,04/15/2020,16147
+338,mississippi,MS,june,06/16/2020,15857
+339,mississippi,MS,july,07/31/2020,15662
+340,mississippi,MS,aug,08/31/2020,15603
+341,mississippi,MS,sept,09/30/2020,15579
+342,mississippi,MS,oct,10/31/2020,15367
+343,mississippi,MS,nov,11/30/2020,15459
+344,mississippi,MS,dec,12/31/2020,15444
+345,mississippi,MS,jan_2021,01/31/2021,15294
+346,mississippi,MS,feb_2021,03/01/2021,15336
+347,mississippi,MS,march_2021,03/31/2021,15261
+348,mississippi,MS,april_2021,04/30/2021,15309
+349,mississippi,MS,may_2021,05/31/2021,15532
+350,missouri,MO,march,03/31/2020,25740
+351,missouri,MO,april,04/30/2020,25133
+352,missouri,MO,june,06/18/2020,24000
+353,missouri,MO,july,07/31/2020,23877
+354,missouri,MO,aug,08/31/2020,23777
+355,missouri,MO,sept,09/30/2020,23602
+356,missouri,MO,oct,10/30/2020,23554
+357,missouri,MO,nov,11/30/2020,23397
+358,missouri,MO,dec,12/31/2020,23106
+359,missouri,MO,jan_2021,01/31/2021,23037
+360,missouri,MO,feb_2021,02/28/2021,22783
+361,missouri,MO,march_2021,03/31/2021,22939
+362,missouri,MO,april_2021,04/30/2021,23044
+363,missouri,MO,may_2021,05/31/2021,23057
+364,montana,MT,march,03/15/2020,4508
+365,montana,MT,april,04/15/2020,4318
+366,montana,MT,june,06/16/2020,3962
+367,montana,MT,july,07/31/2020,3907
+368,montana,MT,aug,08/31/2020,3886
+369,montana,MT,sept,09/30/2020,3812
+370,montana,MT,oct,10/31/2020,3746
+371,montana,MT,nov,11/30/2020,3709
+372,montana,MT,dec,12/31/2020,3620
+373,montana,MT,jan_2021,01/31/2021,3686
+374,montana,MT,feb_2021,02/28/2021,3762
+375,montana,MT,march_2021,03/31/2021,3782
+376,montana,MT,april_2021,04/30/2021,3858
+377,montana,MT,may_2021,05/31/2021,3908
+378,nebraska,NE,march,03/31/2020,5621
+379,nebraska,NE,april,04/30/2020,5539
+380,nebraska,NE,june,06/30/2020,5384
+381,nebraska,NE,july,07/31/2020,5307
+382,nebraska,NE,aug,08/31/2020,5272
+383,nebraska,NE,sept,09/30/2020,5297
+384,nebraska,NE,oct,10/31/2020,5296
+385,nebraska,NE,nov,11/30/2020,5308
+386,nebraska,NE,dec,12/31/2020,5275
+387,nebraska,NE,jan_2021,01/31/2021,5265
+388,nebraska,NE,feb_2021,03/01/2021,5302
+389,nebraska,NE,march_2021,04/01/2021,5320
+390,nebraska,NE,april_2021,05/01/2021,5301
+391,nebraska,NE,may_2021,06/01/2021,5363
+392,nevada,NV,march,03/08/2020,12384
+393,nevada,NV,april,04/30/2020,12152
+394,nevada,NV,june,06/14/2020,11231
+395,nevada,NV,july,08/02/2020,11696
+396,nevada,NV,aug,08/31/2020,11529
+397,nevada,NV,sept,09/27/2020,11354
+398,nevada,NV,oct,10/31/2020,11273
+399,nevada,NV,nov,11/29/2020,11222
+400,nevada,NV,dec,12/27/2020,11134
+401,nevada,NV,jan_2021,01/31/2021,11007
+402,nevada,NV,feb_2021,03/01/2021,10926
+403,nevada,NV,march_2021,03/29/2021,10841
+404,nevada,NV,april_2021,04/27/2021,10777
+405,nevada,NV,may_2021,06/01/2021,10640
+406,new hampshire,NH,march,04/01/2020,2433
+407,new hampshire,NH,april,05/01/2020,2359
+408,new hampshire,NH,june,07/01/2020,2256
+409,new hampshire,NH,july,08/01/2020,2228
+410,new hampshire,NH,aug,09/01/2020,2209
+411,new hampshire,NH,sept,10/01/2020,2203
+412,new hampshire,NH,oct,11/01/2020,2184
+413,new hampshire,NH,nov,12/01/2020,2155
+414,new hampshire,NH,dec,01/01/2021,2136
+415,new hampshire,NH,jan_2021,02/01/2021,2107
+416,new hampshire,NH,feb_2021,03/01/2021,2071
+417,new hampshire,NH,march_2021,04/01/2021,2053
+418,new hampshire,NH,april_2021,05/01/2021,2030
+419,new hampshire,NH,may_2021,06/01/2021,2016
+420,new jersey,NJ,march,03/15/2020,18439
+421,new jersey,NJ,april,04/15/2020,17958
+422,new jersey,NJ,june,06/16/2020,16613
+423,new jersey,NJ,july,08/01/2020,15866
+424,new jersey,NJ,aug,09/01/2020,15480
+425,new jersey,NJ,sept,10/01/2020,15380
+426,new jersey,NJ,oct,10/27/2020,14784
+427,new jersey,NJ,nov,11/30/2020,12800
+428,new jersey,NJ,dec,12/31/2020,11463
+429,new jersey,NJ,jan_2021,01/31/2021,11434
+430,new jersey,NJ,feb_2021,02/28/2021,11128
+431,new jersey,NJ,march_2021,03/31/2021,10962
+432,new jersey,NJ,april_2021,04/30/2021,10875
+433,new jersey,NJ,may_2021,05/31/2021,10722
+434,new mexico,NM,march,03/15/2020,6573
+435,new mexico,NM,april,04/15/2020,6588
+436,new mexico,NM,june,06/17/2020,6328
+437,new mexico,NM,july,07/31/2020,6175
+438,new mexico,NM,aug,08/31/2020,6159
+439,new mexico,NM,sept,09/30/2020,6040
+440,new mexico,NM,oct,11/01/2020,6029
+441,new mexico,NM,nov,11/30/2020,6012
+442,new mexico,NM,dec,12/31/2020,5847
+443,new mexico,NM,jan_2021,01/31/2021,5817
+444,new mexico,NM,feb_2021,02/28/2021,5772
+445,new mexico,NM,march_2021,03/31/2021,5710
+446,new mexico,NM,april_2021,04/30/2021,5731
+447,new mexico,NM,may_2021,05/31/2021,5708
+448,new york,NY,march,04/01/2020,42784
+449,new york,NY,april,05/01/2020,40956
+450,new york,NY,june,06/16/2020,38723
+451,new york,NY,july,08/01/2020,37559
+452,new york,NY,aug,09/01/2020,37053
+453,new york,NY,sept,10/01/2020,36528
+454,new york,NY,oct,11/01/2020,35983
+455,new york,NY,nov,12/01/2020,35353
+456,new york,NY,dec,01/01/2021,34446
+457,new york,NY,jan_2021,02/01/2021,33376
+458,new york,NY,feb_2021,03/01/2021,32384
+459,new york,NY,march_2021,04/01/2021,31412
+460,new york,NY,april_2021,05/01/2021,31456
+461,new york,NY,may_2021,06/01/2021,31890
+462,north carolina,NC,jan_2021,01/31/2020,29023
+463,north carolina,NC,march,03/15/2020,34256
+464,north carolina,NC,april,04/30/2020,33790
+465,north carolina,NC,june,06/30/2020,31485
+466,north carolina,NC,july,07/31/2020,31471
+467,north carolina,NC,aug,09/01/2020,31341
+468,north carolina,NC,sept,09/30/2020,31048
+469,north carolina,NC,oct,10/31/2020,30657
+470,north carolina,NC,nov,11/30/2020,30278
+471,north carolina,NC,dec,12/31/2020,29321
+472,north carolina,NC,feb_2021,02/28/2021,28714
+473,north carolina,NC,march_2021,03/31/2021,28679
+474,north carolina,NC,april_2021,04/30/2021,28746
+475,north carolina,NC,may_2021,05/31/2021,28765
+476,north dakota,ND,jan_2021,01/31/2020,1254
+477,north dakota,ND,march,03/15/2020,1519
+478,north dakota,ND,april,04/15/2020,1321
+479,north dakota,ND,june,06/16/2020,1247
+480,north dakota,ND,july,07/31/2020,1237
+481,north dakota,ND,aug,09/01/2020,1185
+482,north dakota,ND,sept,09/30/2020,1205
+483,north dakota,ND,oct,10/31/2020,1191
+484,north dakota,ND,nov,11/30/2020,1235
+485,north dakota,ND,dec,12/31/2020,1211
+486,north dakota,ND,feb_2021,02/28/2021,1293
+487,north dakota,ND,march_2021,03/31/2021,1351
+488,north dakota,ND,april_2021,04/30/2021,1384
+489,north dakota,ND,may_2021,05/31/2021,1368
+490,ohio,OH,march,03/19/2020,48765
+491,ohio,OH,april,04/20/2020,48927
+492,ohio,OH,june,06/16/2020,46212
+493,ohio,OH,july,08/04/2020,44972
+494,ohio,OH,aug,08/31/2020,45047
+495,ohio,OH,sept,09/30/2020,44536
+496,ohio,OH,oct,10/31/2020,44598
+497,ohio,OH,nov,11/30/2020,44441
+498,ohio,OH,dec,12/31/2020,44027
+499,ohio,OH,jan_2021,01/31/2021,43665
+500,ohio,OH,feb_2021,02/28/2021,43495
+501,ohio,OH,march_2021,03/31/2021,43246
+502,ohio,OH,april_2021,04/30/2021,43005
+503,ohio,OH,may_2021,05/25/2021,43014
+504,oklahoma,OK,march,03/16/2020,24956
+505,oklahoma,OK,april,04/13/2020,24395
+506,oklahoma,OK,june,06/16/2020,22875
+507,oklahoma,OK,july,07/31/2020,22201
+508,oklahoma,OK,aug,08/31/2020,21980
+509,oklahoma,OK,sept,09/28/2020,21769
+510,oklahoma,OK,oct,11/02/2020,21678
+511,oklahoma,OK,nov,11/30/2020,21709
+512,oklahoma,OK,dec,01/04/2021,21718
+513,oklahoma,OK,jan_2021,02/01/2021,21665
+514,oklahoma,OK,feb_2021,03/01/2021,21670
+515,oklahoma,OK,march_2021,03/29/2021,21729
+516,oklahoma,OK,april_2021,05/03/2021,21725
+517,oklahoma,OK,may_2021,06/01/2021,21615
+518,oregon,OR,jan_2021,02/01/2020,12593
+519,oregon,OR,march,03/15/2020,14459
+520,oregon,OR,april,04/15/2020,14407
+521,oregon,OR,june,06/16/2020,14055
+522,oregon,OR,july,07/31/2020,13721
+523,oregon,OR,aug,08/31/2020,13507
+524,oregon,OR,sept,10/01/2020,13306
+525,oregon,OR,oct,11/01/2020,13149
+526,oregon,OR,nov,12/01/2020,12989
+527,oregon,OR,dec,12/31/2020,12753
+528,oregon,OR,feb_2021,03/01/2021,12404
+529,oregon,OR,march_2021,04/01/2021,12322
+530,oregon,OR,april_2021,05/01/2021,12190
+531,oregon,OR,may_2021,06/01/2021,12098
+532,pennsylvania,PA,march,03/31/2020,46559
+533,pennsylvania,PA,april,04/30/2020,45251
+534,pennsylvania,PA,june,06/30/2020,43916
+535,pennsylvania,PA,july,07/30/2020,43204
+536,pennsylvania,PA,aug,08/31/2020,41964
+537,pennsylvania,PA,sept,09/30/2020,41438
+538,pennsylvania,PA,oct,10/30/2020,41140
+539,pennsylvania,PA,nov,11/30/2020,40786
+540,pennsylvania,PA,dec,12/31/2020,40403
+541,pennsylvania,PA,jan_2021,01/31/2021,40088
+542,pennsylvania,PA,feb_2021,02/28/2021,39499
+543,pennsylvania,PA,march_2021,03/31/2021,39296
+544,pennsylvania,PA,april_2021,04/30/2021,39080
+545,pennsylvania,PA,may_2021,05/31/2021,38868
+546,rhode island,RI,march,03/15/2020,2674
+547,rhode island,RI,april,04/15/2020,2275
+548,rhode island,RI,june,06/16/2020,2180
+549,rhode island,RI,july,07/31/2020,2200
+550,rhode island,RI,aug,08/31/2020,2211
+551,rhode island,RI,sept,09/30/2020,2184
+552,rhode island,RI,oct,10/31/2020,2233
+553,rhode island,RI,nov,11/30/2020,2179
+554,rhode island,RI,dec,12/31/2020,2076
+555,rhode island,RI,jan_2021,01/31/2021,2118
+556,rhode island,RI,feb_2021,02/28/2021,2150
+557,rhode island,RI,march_2021,03/31/2021,2120
+558,rhode island,RI,april_2021,04/30/2021,2078
+559,rhode island,RI,may_2021,05/31/2021,2125
+560,south carolina,SC,march,03/20/2020,18113
+561,south carolina,SC,april,04/20/2020,17772
+562,south carolina,SC,june,06/18/2020,17188
+563,south carolina,SC,july,07/31/2020,16710
+564,south carolina,SC,aug,08/29/2020,16447
+565,south carolina,SC,sept,09/30/2020,16540
+566,south carolina,SC,oct,10/30/2020,16109
+567,south carolina,SC,nov,11/30/2020,15927
+568,south carolina,SC,dec,12/31/2020,15674
+569,south carolina,SC,jan_2021,01/31/2021,15700
+570,south carolina,SC,feb_2021,03/01/2021,15320
+571,south carolina,SC,march_2021,04/01/2021,15293
+572,south carolina,SC,april_2021,05/01/2021,15216
+573,south carolina,SC,may_2021,06/01/2021,15159
+574,south dakota,SD,march,03/31/2020,3701
+575,south dakota,SD,april,04/30/2020,3546
+576,south dakota,SD,june,06/30/2020,3367
+577,south dakota,SD,july,07/31/2020,3309
+578,south dakota,SD,aug,08/31/2020,3258
+579,south dakota,SD,sept,09/30/2020,3235
+580,south dakota,SD,oct,10/31/2020,3205
+581,south dakota,SD,nov,11/30/2020,3205
+582,south dakota,SD,dec,12/31/2020,3159
+583,south dakota,SD,jan_2021,01/31/2021,3145
+584,south dakota,SD,feb_2021,02/28/2021,3174
+585,south dakota,SD,march_2021,03/31/2021,3180
+586,south dakota,SD,april_2021,04/30/2021,3181
+587,south dakota,SD,may_2021,05/31/2021,3228
+588,tennessee,TN,march,03/15/2020,21616
+589,tennessee,TN,april,04/15/2020,21150
+590,tennessee,TN,june,06/16/2020,20079
+591,tennessee,TN,july,07/31/2020,19249
+592,tennessee,TN,aug,08/31/2020,19279
+593,tennessee,TN,sept,09/30/2020,19143
+594,tennessee,TN,oct,10/31/2020,19566
+595,tennessee,TN,nov,11/30/2020,19605
+596,tennessee,TN,dec,12/31/2020,19453
+597,tennessee,TN,jan_2021,01/31/2021,19510
+598,tennessee,TN,feb_2021,02/28/2021,19433
+599,tennessee,TN,march_2021,03/31/2021,19687
+600,tennessee,TN,april_2021,04/30/2021,19687
+601,tennessee,TN,may_2021,05/31/2021,20537
+602,texas,TX,jan_2021,01/31/2020,119541
+603,texas,TX,march,03/31/2020,140124
+604,texas,TX,april,04/30/2020,135833
+605,texas,TX,june,06/26/2020,127200
+606,texas,TX,july,07/31/2020,124181
+607,texas,TX,aug,08/31/2020,121128
+608,texas,TX,sept,09/30/2020,120709
+609,texas,TX,oct,10/31/2020,122177
+610,texas,TX,nov,11/30/2020,121876
+611,texas,TX,dec,12/31/2020,120873
+612,texas,TX,feb_2021,02/28/2021,117843
+613,texas,TX,march_2021,03/31/2021,117491
+614,texas,TX,april_2021,04/30/2021,116926
+615,texas,TX,may_2021,05/31/2021,117838
+616,utah,UT,march,03/15/2020,6900
+617,utah,UT,april,04/15/2020,6441
+618,utah,UT,june,06/16/2020,5993
+619,utah,UT,july,07/31/2020,5915
+620,utah,UT,aug,08/31/2020,5824
+621,utah,UT,sept,09/30/2020,5814
+622,utah,UT,oct,10/31/2020,5898
+623,utah,UT,nov,11/30/2020,5496
+624,utah,UT,jan_2021,12/31/2020,5485
+625,utah,UT,dec,12/31/2020,5485
+626,utah,UT,feb_2021,02/28/2021,5581
+627,utah,UT,march_2021,03/31/2021,5602
+628,utah,UT,april_2021,04/30/2021,5663
+629,utah,UT,may_2021,05/31/2021,5728
+630,vermont,VT,march,03/15/2020,1656
+631,vermont,VT,april,04/15/2020,1406
+632,vermont,VT,june,06/16/2020,1395
+633,vermont,VT,july,07/31/2020,1390
+634,vermont,VT,aug,08/31/2020,1417
+635,vermont,VT,sept,09/30/2020,1413
+636,vermont,VT,oct,10/30/2020,1369
+637,vermont,VT,nov,11/30/2020,1380
+638,vermont,VT,dec,12/30/2020,1292
+639,vermont,VT,jan_2021,01/29/2021,1281
+640,vermont,VT,feb_2021,03/01/2021,1274
+641,vermont,VT,march_2021,03/31/2021,1238
+642,vermont,VT,april_2021,04/30/2021,1228
+643,vermont,VT,may_2021,05/28/2021,1261
+644,virginia,VA,march,03/13/2020,29161
+645,virginia,VA,april,04/14/2020,28559
+646,virginia,VA,june,06/16/2020,28595
+647,virginia,VA,july,07/31/2020,26749
+648,virginia,VA,aug,08/31/2020,26190
+649,virginia,VA,sept,09/30/2020,25659
+650,virginia,VA,oct,10/31/2020,25156
+651,virginia,VA,nov,11/30/2020,24731
+652,virginia,VA,dec,12/31/2020,24235
+653,virginia,VA,jan_2021,01/31/2021,23811
+654,virginia,VA,feb_2021,02/28/2021,23644
+655,virginia,VA,march_2021,03/31/2021,23796
+656,virginia,VA,april_2021,04/30/2021,23897
+657,virginia,VA,may_2021,05/31/2021,23966
+658,washington,WA,march,03/31/2020,17263
+659,washington,WA,april,04/30/2020,16906
+660,washington,WA,june,06/30/2020,15837
+661,washington,WA,july,07/31/2020,15626
+662,washington,WA,aug,08/31/2020,15494
+663,washington,WA,sept,09/30/2020,15339
+664,washington,WA,oct,10/31/2020,15198
+665,washington,WA,nov,11/30/2020,15111
+666,washington,WA,dec,12/31/2020,14882
+667,washington,WA,jan_2021,01/31/2021,14660
+668,washington,WA,feb_2021,02/28/2021,14510
+669,washington,WA,march_2021,03/31/2021,14314
+670,washington,WA,april_2021,04/30/2021,14065
+671,washington,WA,may_2021,04/30/2021,14065
+672,west virginia,WV,march,03/15/2020,5952
+673,west virginia,WV,april,04/15/2020,5556
+674,west virginia,WV,june,06/15/2020,4898
+675,west virginia,WV,july,07/31/2020,4398
+676,west virginia,WV,aug,08/31/2020,4331
+677,west virginia,WV,sept,09/30/2020,4275
+678,west virginia,WV,oct,10/31/2020,4247
+679,west virginia,WV,nov,11/30/2020,4189
+680,west virginia,WV,dec,12/31/2020,3977
+681,west virginia,WV,jan_2021,01/31/2021,3987
+682,west virginia,WV,feb_2021,02/28/2021,3962
+683,west virginia,WV,march_2021,03/31/2021,4053
+684,west virginia,WV,april_2021,04/30/2021,4071
+685,west virginia,WV,may_2021,06/01/2021,4425
+686,wisconsin,WI,march,03/13/2020,23591
+687,wisconsin,WI,april,04/17/2020,22507
+688,wisconsin,WI,june,06/12/2020,21576
+689,wisconsin,WI,july,07/31/2020,21252
+690,wisconsin,WI,aug,09/04/2020,21136
+691,wisconsin,WI,sept,10/02/2020,21495
+692,wisconsin,WI,oct,10/30/2020,20796
+693,wisconsin,WI,nov,11/27/2020,20494
+694,wisconsin,WI,dec,01/01/2021,20033
+695,wisconsin,WI,jan_2021,01/29/2021,19783
+696,wisconsin,WI,feb_2021,02/26/2021,19513
+697,wisconsin,WI,march_2021,04/02/2021,19357
+698,wisconsin,WI,april_2021,04/30/2021,19301
+699,wisconsin,WI,may_2021,05/28/2021,19271
+700,wyoming,WY,march,03/15/2020,2156
+701,wyoming,WY,april,04/15/2020,2098
+702,wyoming,WY,june,06/16/2020,2001
+703,wyoming,WY,july,07/31/2020,1986
+704,wyoming,WY,aug,08/31/2020,1959
+705,wyoming,WY,sept,09/30/2020,1996
+706,wyoming,WY,oct,10/31/2020,2232
+707,wyoming,WY,nov,11/30/2020,2157
+708,wyoming,WY,dec,12/31/2020,2134
+709,wyoming,WY,jan_2021,01/31/2021,2133
+710,wyoming,WY,april_2021,01/31/2021,2133
+711,wyoming,WY,may_2021,01/31/2021,2133
+712,wyoming,WY,feb_2021,01/31/2021,2133
+713,wyoming,WY,march_2021,01/31/2021,2133
