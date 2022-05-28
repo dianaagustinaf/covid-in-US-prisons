@@ -51,7 +51,19 @@ Social Security is a United States government department that is responsible for
 
 Link to source: https://www.ssa.gov/international/coc-docs/states.html
 
-
+In [RESOURCES](/Resources) there are all those files downloaded and available for analysis.
 ---
 
 # TRANSFORM
+
+
+
+
+
+
+
+![ERDiagram Covid in US Prisons](/ERDiagram/ERDiagram_Covid_in_US_Prisons.png?raw=true "ERDiagram Covid in US Prisons")
+
+
+
+
