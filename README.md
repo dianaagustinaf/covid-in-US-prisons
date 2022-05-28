@@ -83,7 +83,7 @@ The data type for columns with dates or time were also transformed into a timest
 
 The final function in the ETL process required us to Load the data we cleaned in the Transform phase. 
 
-First we created the tables in PostgreSQL. In the [Load](/LOAD.md) document, there are the queries to CREATE TABLES in an SQL Database and the queries to generate the ER Diagram with all the tables.
+First we created the tables in PostgreSQL. In the [Load](/LOAD.txt) document, there are the queries to CREATE TABLES in an SQL Database and the queries to generate the ER Diagram with all the tables.
 
 We connected to our local database in PostgreSQL using SQLAlchemy:
 
