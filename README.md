@@ -62,7 +62,7 @@ In [RESOURCES](/Resources) there are all those files downloaded and available fo
 
 
 
-![ERDiagram Covid in US Prisons](/ERDiagram/ERDiagram_Covid_in_US_Prisons.png?raw=true "ERDiagram Covid in US Prisons")
+![ERDiagram Covid in US Prisons](/ERDiagram/ERDiagram_Covid_in_US_Prisons.png?raw=true "ERDiagram Covid in US Prisons" =250x250)
 
 
 
