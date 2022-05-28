@@ -119,7 +119,7 @@ Full picture here: [ERDiagram](/ERDiagram/ERDiagram_Covid_in_US_Prisons.png)
 
 ## Files
 
-Find the full code in [ETL_pipeline](ETL_pipeline.ipynb) file.
+Find the full code in [ETL_pipeline](/ETL_pipeline.ipynb) file.
 
 - - -
 
