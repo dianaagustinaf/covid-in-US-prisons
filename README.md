@@ -51,19 +51,79 @@ Social Security is a United States government department that is responsible for
 
 Link to source: https://www.ssa.gov/international/coc-docs/states.html
 
-In [RESOURCES](/Resources) there are all those files downloaded and available for analysis.
----
+In [Resources](/Resources) there are all those files downloaded and available for analysis.
+
+
+- - -
 
 # TRANSFORM
 
+For the transform stage we have use Pandas and Datetime for dates formatting:
+ 
+```
+import pandas as pd
+import datetime as dt
+```
+
+No columns were dropped on the dataframe that was extracted from the social security website. This dataframe had two columns: state and state abbreviations.
+
+The most significant data cleaning was removing columns that were not needed on the table that was scrapped from the worldometers website. To do this the table extracted was transformed into a data frame (state_covid_data). Thereafter the columns "'#', 'NewCases', 'NewDeaths','Source', 'Projections', 'TotalRecovered', 'ActiveCases', 'Deaths/1M pop'" were dropped from the state_covid_data dataframe.
+
+The CSV files from the NYT and Marshall project were also imported and transformed into a pandas dataframe using the pd.read_csv function. 
+
+To make the dataframes compatible with each other after loading the data in the dataframes into the SQL database, it was decided to ensure that each dataframe would have a state and abbreviations (of the state) columns on it that are compatible. To do this, the name of the state written on each dataframe was changed to ensure that it was all lower case using the pandas str function. For example ALABAMA or Alabama was changed into alabama. This allowed us to use “state” columns as primary / foreign keys in SQL tables.
+
+Also some of the column names on all the dataframes were changed to ensure that they are written in a way that is compatible with the SQL language. Examples of these can be found in the final code for the project.
+
+The data type for columns with dates or time were also transformed into a timestamp using the to_datetime function from the datetime module.
+
+- - -
+
+# LOAD  
+
+The final function in the ETL process required us to Load the data we cleaned in the Transform phase. 
+
+First we created the tables in PostgreSQL. In the [Load](/LOAD.md) document, there are the queries to CREATE TABLES in an SQL Database and the queries to generate the ER Diagram with all the tables.
+
+We connected to our local database in PostgreSQL using SQLAlchemy:
+
+```
+python
+ 
+from sqlalchemy import create_engine
+ 
+engine = create_engine(f"postgresql://postgres:{pg_key}@localhost/covid-in-us-prisons")
+ 
+con=engine.connect()
+```
+
+The 8 tables we have Loaded are:
+
+* state_abbreviations_df
+* state_covid_datadf_left
+* nyt_df1
+* nyt_df2
+* ap_data_df1_cases
+* ap_data_df2_rates
+* ap_data_df3_prisonpop
+* ap_data_df4_staffpop
 
 
+<img src="/ERDiagram/Tables.JPG">
 
+<img src="/ERDiagram/ERDiagram_Covid_in_US_Prisons.png" width="600">
 
+Full picture here: [ERDiagram](/ERDiagram/ERDiagram_Covid_in_US_Prisons.png)
 
+- - -
 
-![ERDiagram Covid in US Prisons](/ERDiagram/ERDiagram_Covid_in_US_Prisons.png?raw=true "ERDiagram Covid in US Prisons" =250x250)
+## Files
 
+Find the full code in [ETL_pipeline](ETL_pipeline.ipynb) file.
+
+- - -
+
+© 2022 University of Birmingham / Data Analysis Project II
 
 
 
